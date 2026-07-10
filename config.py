@@ -1,5 +1,5 @@
 # The only two things you must fill in:
-EMAIL = "24F3004358@ds.study.iitm.ac.in"
+EMAIL = "24f3004358@ds.study.iitm.ac.in"
 AIPIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI0ZjMwMDQzNThAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc4MDc5MTE2MiwiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc4MTM5NTk2Mn0.oZYprduRu_gw3bbm11C6t8OaWNEBkt-0NpuKLlgtMbc"
 # Fixed — do not change
 AIPIPE_BASE = "https://aipipe.org/openai/v1"
